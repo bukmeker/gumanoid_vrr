@@ -1,4 +1,4 @@
-**Вот готовый файл `README.md` — копируй целиком:**
+
 
 ```markdown
 # Unitree G1 EDU — VR Avatar Controller
